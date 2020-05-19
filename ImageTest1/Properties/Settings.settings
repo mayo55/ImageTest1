@@ -1,0 +1,345 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ImageTest1.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="NumberOfScreen" Type="System.String" Scope="User">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+    <Setting Name="ScreenInfomations" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0, 0, 960, 540 / 960, 0, 960, 440 / 0, 540, 400, 540</Value>
+    </Setting>
+    <Setting Name="ResizeList" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0.25, 0.5, 0.75, 1.0, 1.5, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0</Value>
+    </Setting>
+    <Setting Name="LeftDestinations" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1, 0, 1</Value>
+    </Setting>
+    <Setting Name="RightDestinations" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1, 0, 1</Value>
+    </Setting>
+    <Setting Name="UpDestinations" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2, 2, 0</Value>
+    </Setting>
+    <Setting Name="DownDestinations" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2, 2, 0</Value>
+    </Setting>
+    <Setting Name="HorizontallyLongScreen" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="VerticallyLongScreen" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Maximize" Type="System.String" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="MoveValueSmall" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="MoveValueLarge" Type="System.String" Scope="User">
+      <Value Profile="(Default)">32</Value>
+    </Setting>
+    <Setting Name="CommandLine" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="BorderWidth" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="PreLoadNumber" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="MaxThreads" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="InterpolationMode" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="BufferNumber" Type="System.String" Scope="User">
+      <Value Profile="(Default)">-1</Value>
+    </Setting>
+    <Setting Name="ScreenInfoAuto" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="InterlockScreenNumber" Type="System.String" Scope="User">
+      <Value Profile="(Default)">-1</Value>
+    </Setting>
+    <Setting Name="MoveAfterCopy" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="ChangeLeftRight" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="DoMaximize" Type="System.String" Scope="User">
+      <Value Profile="(Default)">x</Value>
+    </Setting>
+    <Setting Name="DoRotateRight" Type="System.String" Scope="User">
+      <Value Profile="(Default)">f</Value>
+    </Setting>
+    <Setting Name="DoRotateLeft" Type="System.String" Scope="User">
+      <Value Profile="(Default)">d</Value>
+    </Setting>
+    <Setting Name="DoExpansion" Type="System.String" Scope="User">
+      <Value Profile="(Default)">+</Value>
+    </Setting>
+    <Setting Name="DoReduce" Type="System.String" Scope="User">
+      <Value Profile="(Default)">-</Value>
+    </Setting>
+    <Setting Name="DoPrevFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">q,Up</Value>
+    </Setting>
+    <Setting Name="DoNextFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">a,Down</Value>
+    </Setting>
+    <Setting Name="DoPrevFileChangable" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Left</Value>
+    </Setting>
+    <Setting Name="DoNextFileChangable" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Right</Value>
+    </Setting>
+    <Setting Name="DoMoveLeftSmall" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ctrl+Left</Value>
+    </Setting>
+    <Setting Name="DoMoveRightSmall" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ctrl+Right</Value>
+    </Setting>
+    <Setting Name="DoMoveUpSmall" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ctrl+Up</Value>
+    </Setting>
+    <Setting Name="DoMoveDownSmall" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ctrl+Down</Value>
+    </Setting>
+    <Setting Name="DoMoveLeftLarge" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Shift+Left</Value>
+    </Setting>
+    <Setting Name="DoMoveRightLarge" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Shift+Right</Value>
+    </Setting>
+    <Setting Name="DoMoveUpLarge" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Shift+Up</Value>
+    </Setting>
+    <Setting Name="DoMoveDownLarge" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Shift+Down</Value>
+    </Setting>
+    <Setting Name="DoMoveLeftScreen" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Shift+Left</Value>
+    </Setting>
+    <Setting Name="DoMoveRightScreen" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Shift+Right</Value>
+    </Setting>
+    <Setting Name="DoMoveUpScreen" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Shift+Up</Value>
+    </Setting>
+    <Setting Name="DoMoveDownScreen" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Shift+Down</Value>
+    </Setting>
+    <Setting Name="DoNoCopyFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">NumPad0</Value>
+    </Setting>
+    <Setting Name="DoNoCopyFileReverse" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Decimal</Value>
+    </Setting>
+    <Setting Name="DoCopyFile1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">NumPad1</Value>
+    </Setting>
+    <Setting Name="DoCopyFile2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">NumPad2</Value>
+    </Setting>
+    <Setting Name="DoCopyFile3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">NumPad3</Value>
+    </Setting>
+    <Setting Name="DoCopyFile4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">NumPad4</Value>
+    </Setting>
+    <Setting Name="DoCopyFile5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">NumPad5</Value>
+    </Setting>
+    <Setting Name="DoCopyFile6" Type="System.String" Scope="User">
+      <Value Profile="(Default)">NumPad6</Value>
+    </Setting>
+    <Setting Name="DoCopyFile7" Type="System.String" Scope="User">
+      <Value Profile="(Default)">NumPad7</Value>
+    </Setting>
+    <Setting Name="DoCopyFile8" Type="System.String" Scope="User">
+      <Value Profile="(Default)">NumPad8</Value>
+    </Setting>
+    <Setting Name="DoCopyFile9" Type="System.String" Scope="User">
+      <Value Profile="(Default)">NumPad9</Value>
+    </Setting>
+    <Setting Name="DoClose" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Esc</Value>
+    </Setting>
+    <Setting Name="DoSortModeFilenameAsc" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Shift+F1</Value>
+    </Setting>
+    <Setting Name="DoSortModeFilenameDesc" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Shift+F2</Value>
+    </Setting>
+    <Setting Name="DoSortModeTimeAsc" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Shift+F3</Value>
+    </Setting>
+    <Setting Name="DoSortModeTimeDesc" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Shift+F4</Value>
+    </Setting>
+    <Setting Name="DoFirstFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Home</Value>
+    </Setting>
+    <Setting Name="DoLastFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">End</Value>
+    </Setting>
+    <Setting Name="DoSkipNextFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">PageDown</Value>
+    </Setting>
+    <Setting Name="DoSkipPrevFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">PageUp</Value>
+    </Setting>
+    <Setting Name="DoIncrementPageNumber" Type="System.String" Scope="User">
+      <Value Profile="(Default)">]</Value>
+    </Setting>
+    <Setting Name="DoDecrementPageNumber" Type="System.String" Scope="User">
+      <Value Profile="(Default)">[</Value>
+    </Setting>
+    <Setting Name="DoMaximizeModeChange" Type="System.String" Scope="User">
+      <Value Profile="(Default)">z</Value>
+    </Setting>
+    <Setting Name="DoCopyFullName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Shift+C</Value>
+    </Setting>
+    <Setting Name="DoCopyFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ctrl+C</Value>
+    </Setting>
+    <Setting Name="DoSelectExplorer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Shift+Enter</Value>
+    </Setting>
+    <Setting Name="DoExecCommand1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Enter</Value>
+    </Setting>
+    <Setting Name="DoExecCommand2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Shift+F12</Value>
+    </Setting>
+    <Setting Name="DoExecCommand3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Shift+F11</Value>
+    </Setting>
+    <Setting Name="DoExecCommand4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Shift+F10</Value>
+    </Setting>
+    <Setting Name="DoExecCommand5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Shift+F9</Value>
+    </Setting>
+    <Setting Name="DoReload" Type="System.String" Scope="User">
+      <Value Profile="(Default)">F5</Value>
+    </Setting>
+    <Setting Name="DoSinglePage" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="DoTwoPages" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="DoInterlock" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Shift+I</Value>
+    </Setting>
+    <Setting Name="DoMoveFiles" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Shift+M</Value>
+    </Setting>
+    <Setting Name="DoRenamePage" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Shift+P</Value>
+    </Setting>
+    <Setting Name="DoShowPage" Type="System.String" Scope="User">
+      <Value Profile="(Default)">p</Value>
+    </Setting>
+    <Setting Name="DoThreePages" Type="System.String" Scope="User">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+    <Setting Name="DoWatchMode" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Shift+W</Value>
+    </Setting>
+    <Setting Name="DoOpenFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">o,Ctrl+O</Value>
+    </Setting>
+    <Setting Name="DoOpenDirectory" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Shift+O</Value>
+    </Setting>
+    <Setting Name="DoChangeFocus" Type="System.String" Scope="User">
+      <Value Profile="(Default)">F6</Value>
+    </Setting>
+    <Setting Name="DoFrontBack" Type="System.String" Scope="User">
+      <Value Profile="(Default)">4</Value>
+    </Setting>
+    <Setting Name="DoShowBorder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">b</Value>
+    </Setting>
+    <Setting Name="DoChangeLeftRight" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Shift+R</Value>
+    </Setting>
+    <Setting Name="DoTwoPagesFrontBack" Type="System.String" Scope="User">
+      <Value Profile="(Default)">6</Value>
+    </Setting>
+    <Setting Name="DoConfig" Type="System.String" Scope="User">
+      <Value Profile="(Default)">@</Value>
+    </Setting>
+    <Setting Name="DestinationDirectory1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\fav\dir1</Value>
+    </Setting>
+    <Setting Name="DestinationDirectory2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\fav\dir2</Value>
+    </Setting>
+    <Setting Name="DestinationDirectory3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\fav\dir3</Value>
+    </Setting>
+    <Setting Name="DestinationDirectory4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\fav\dir4</Value>
+    </Setting>
+    <Setting Name="DestinationDirectory5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\fav\dir5</Value>
+    </Setting>
+    <Setting Name="DestinationDirectory6" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="DestinationDirectory7" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="DestinationDirectory8" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="DestinationDirectory9" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ClearAfterExecCommand1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="ClearAfterExecCommand2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="ExecCommand3" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ClearAfterExecCommand3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="ExecCommand4" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ClearAfterExecCommand4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="ExecCommand5" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ClearAfterExecCommand5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="InterlockFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\scan</Value>
+    </Setting>
+    <Setting Name="InitialFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">{MyPictures}</Value>
+    </Setting>
+    <Setting Name="ExecCommandAfterMoveFiles" Type="System.String" Scope="User">
+      <Value Profile="(Default)">{ImageTest1} -p2 -b -spn {destDir}</Value>
+    </Setting>
+    <Setting Name="ExecCommand1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">"{ImageTest1-Dir}\ScanClick.ahk"</Value>
+    </Setting>
+    <Setting Name="ExecCommand2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">"{ImageTest1-Dir}\RenScan.bat" {filename}</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
