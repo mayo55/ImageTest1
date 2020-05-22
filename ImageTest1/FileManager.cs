@@ -487,6 +487,24 @@ namespace ImageTest1
             fileInfoIndex = fileInfoList.Length - 1;
             filename = GetFullName();
 
+            try
+            {
+                using (System.IO.FileStream fs = new System.IO.FileStream(filename, System.IO.FileMode.Open, System.IO.FileAccess.Read))
+                {
+                }
+            }
+            catch (Exception ex)
+            {
+                // 最後のファイルが
+                // 「別のプロセスで使用されているため、プロセスはファイル 'XXXXX' にアクセスできません。」
+                // (など)の場合には、そのファイルを除外する(ITScan用)
+                FileInfo[] newFileInfoList = new FileInfo[fileInfoList.Length - 1];
+                Array.Copy(fileInfoList, newFileInfoList, fileInfoList.Length - 1);
+                fileInfoList = newFileInfoList;
+                fileInfoIndex = fileInfoList.Length - 1;
+                filename = GetFullName();
+            }
+
             if (form1.ProgramMode == ProgramModeType.Sanmen)
             {
                 form1.fileManager.showPages = 3;
